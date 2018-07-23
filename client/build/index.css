@@ -1,0 +1,162 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: white;
+  color: #97127b;
+  font-family: ClanWeb-News,Helvetica,Arial,Helvetica,sans-serif;
+}
+
+#navigation {
+	width: 100%;
+	background-color: white;
+	top: 0;
+  margin: 0 0 15px 0;
+}
+
+#logo-div {
+  max-width: 100%;
+}
+
+#logo {
+  max-width: 100%;
+}
+
+#choices-div {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.choice {
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  font-size: 25px;
+  margin: 2px;
+  padding: 0;
+}
+
+.choice:hover {
+  color: white;
+  background-color: #97127b; 
+}
+
+#flights-component, #flight-each, #flight-header, #search {
+  width: 1350px;
+  margin: 0 0 0 5px;
+}
+
+#flight-header {
+  color: white;
+  background-color: #97127b;
+}
+
+#flights-component p {
+  display: inline-block;
+  font-size: 15px;
+  margin: 0 0 0 10px;
+}
+
+.arr-dep{
+  height: 30px;
+  width: 70px;
+}
+
+.date{
+  height: 30px;
+  width: 100px;
+}
+
+.time{
+  height: 30px;
+  width: 60px;
+}
+
+.destination{
+  height: 30px;
+  width: 150px;
+}
+
+.flight-number{
+  height: 30px;
+  width: 95px;
+}
+
+.mini-logo{
+  display: inline-block;
+  height: 30px;
+  width: 94px;
+  margin: 0 0 0 10px;
+}
+
+.airline{
+  height: 30px;
+  width: 100px;
+}
+
+.status{
+  height: 30px;
+  width: 100px;
+}
+
+.info{
+  height: 30px;
+  width: 280px;
+}
+
+.other-info{
+  height: 30px;
+  width: 120px;
+}
+
+.add-info{
+  height: 30px;
+  width: 160px;
+}
+
+.terminal{
+  height: 30px;
+  width: 100px;
+}
+
+#search {
+  width: 1350px;
+  height: 40px;
+  margin: 0 0 0 10px;
+  color: white;
+  background-color: #97126c;
+}
+
+#search form, #search p {
+  display: inline-block;
+  font-size: 15px;
+  margin: 0 0 0 10px;
+  padding: 10px 0 0 0;
+  height: 20px;
+}
+
+.flight-input {
+  margin: 0 0 0 10px;
+}
+
+#search p:hover {
+  background-color: white;
+  color: #97126c;
+  height: 30px;
+}
+
+#apology {
+  display: inline-block;
+  margin: 0 0 0 10px;
+  padding: 15px 0 0 0;
+  font-weight: bold;
+}
