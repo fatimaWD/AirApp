@@ -7,7 +7,7 @@
     "start": "nodemon server.js",
     "test": "test"
   },
-  "author": "Peter Trizuliak",
+  "author": " ",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.3",
