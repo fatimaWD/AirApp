@@ -11,7 +11,7 @@ Single page app in ES6/React to search through flights JSON file and retrieve ar
 7.  In web browser go to *localhost:3000/flights/...* for API routes.
 
 ## Screenshots
-<img alt="flights" src="http://imgur.com/kHs4wNy.png" width="600" height="320" />
-<img alt="departures" src="http://imgur.com/fzfzAz8.png" width="600" height="320" />
-<img alt="arrivals" src="http://imgur.com/4N0MEuS.png" width="600" height="320" />
-<img alt="search" src="http://imgur.com/ppSeI0i.png" width="600" height="320" />
+<img alt="flights" src="pic1.png" width="600" height="320" />
+<img alt="departures" src="pic2.png" width="600" height="320" />
+<img alt="arrivals" src="pic3.png" width="600" height="320" />
+<img alt="search" src="pic4.png" width="600" height="320" />
